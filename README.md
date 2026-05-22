@@ -1,4 +1,4 @@
-# 📊 <img width="983" height="407" alt="RR " src="https://github.com/user-attachments/assets/b9862c3b-f343-4b5d-b2ca-614fc43ce619" />
+#  📊 Retention Growth & LTV Strategy
 
 ## 🎯 Executive Summary (TL;DR)
 This analysis identifies growth levers for Retention, the key metric in a subscription-based EdTech business model. While the average retention rate in EdTech is around 27%, platform data shows that:
