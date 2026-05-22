@@ -75,7 +75,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Stickiness Distribution Chart]([images/stickiness_distribution.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png))
 
-> 📂 Production SQL Query: [👉 sql/02_stickiness_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/02_stickiness_analysis.sql)
+> 📂 Production SQL Query: [👉 sql/02_stickiness_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/02_stickiness_analysis.sql))
 
 ---
 
@@ -112,7 +112,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Question: Does accumulated virtual capital affect retention behavior?
 * Finding: High-balance users show significantly higher stickiness. Virtual currency creates real behavioral inertia and attachment.
 
-![Stored Value and Stickiness Analysis](images/stored_value_stickiness.png)
+![Stored Value and Stickiness Analysis]([images/stored_value_stickiness.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png))
 
 > 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql)
 
