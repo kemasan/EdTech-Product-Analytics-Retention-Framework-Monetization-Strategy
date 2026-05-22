@@ -63,7 +63,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Method: Monthly cohort grouping. User counted retained if active on day N or later.
 * Finding: Massive drop between Day 0 and Day 1 = FTUE wall (First-Time User Experience). Users crossing the 3-day barrier are 2.4x more likely to retain long-term.
 
-![Rolling Retention Cohort]([images/retention_heatmap.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/RR%20.png))
+![Rolling Retention Cohort](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/RR%20.png)
 
 > 📂 Production SQL Query: [👉 sql/01_rolling_retention_matrix.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/01_rolling_retention_matrix.sql)
 
@@ -73,7 +73,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Question: Has the platform become part of daily routine?
 * Finding: Stickiness remains in the 6–13% range, indicating that habit formation is weak. The platform is not yet embedded in daily behavior for most users.
 
-![Stickiness Distribution Chart]([images/stickiness_distribution.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png))
+![Stickiness Distribution Chart](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png)
 
 > 📂 Production SQL Query: [👉 sql/02_stickiness_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/02_stickiness_analysis.sql))
 
@@ -112,7 +112,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Question: Does accumulated virtual capital affect retention behavior?
 * Finding: High-balance users show significantly higher stickiness. Virtual currency creates real behavioral inertia and attachment.
 
-![Stored Value and Stickiness Analysis]([images/stored_value_stickiness.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png))
+![Stored Value and Stickiness Analysis](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png)
 
 > 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql)
 
