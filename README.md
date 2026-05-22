@@ -64,7 +64,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Rolling Retention Cohort]([images/retention_heatmap.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/RR%20.png))
 
-> 📂 Production SQL Query: [👉 sql/01_rolling_retention_matrix.sql]([sql/01_rolling_retention_matrix.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/01_rolling_retention_matrix.sql))
+> 📂 Production SQL Query: [👉 sql/01_rolling_retention_matrix.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/01_rolling_retention_matrix.sql)
 
 ---
 
@@ -74,7 +74,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Stickiness Distribution Chart]([images/stickiness_distribution.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Stickiness.png))
 
-> 📂 Production SQL Query: [👉 sql/02_stickiness_analysis.sql]([sql/02_stickiness_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/02_stickiness_analysis.sql))
+> 📂 Production SQL Query: [👉 sql/02_stickiness_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/02_stickiness_analysis.sql)
 
 ---
 
@@ -84,7 +84,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Aha-Moment Retention Comparison](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Aha-moment.png)
 
-> 📂 Production SQL Query: [👉 sql/03_aha_moment_segmentation.sql]([sql/03_aha_moment_segmentation.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/03_aha_moment_segmentation.sql)
+> 📂 Production SQL Query: [👉 sql/03_aha_moment_segmentation.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/03_aha_moment_segmentation.sql)
 
 ---
 
@@ -93,7 +93,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Finding: 4 active days in Week 1 pushes retention to industry benchmark levels. Habit formation drives monetization potential.
 ![Behavioral cohort](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/habit%20hypothesis.png)
 
-> 📂 Production SQL Query: [👉 sql/04_habit_frequency_split.sql]([sql/04_habit_frequency_split.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/04_habit_frequency_split.sql)
+> 📂 Production SQL Query: [👉 sql/04_habit_frequency_split.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/04_habit_frequency_split.sql)
 
 ---
 
@@ -103,7 +103,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Friction Index and Abandon Rate Intersection](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/break-point.png)
 
-> 📂 Production SQL Query: [👉 sql/05_frustration_index_modeling.sql]([sql/05_frustration_index_modeling.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/05_frustration_index_modeling.sql)
+> 📂 Production SQL Query: [👉 sql/05_frustration_index_modeling.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/05_frustration_index_modeling.sql)
 
 ---
 
@@ -113,7 +113,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Stored Value and Stickiness Analysis](images/stored_value_stickiness.png)
 
-> 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql]([sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql)
+> 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql)
 
 ---
 
