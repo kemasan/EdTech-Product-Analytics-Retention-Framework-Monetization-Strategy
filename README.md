@@ -12,6 +12,7 @@ The study focuses on behavioral drivers of retention and proposes product-level 
 
 ## 🔬 The Analytical Framework & Alignment
 Following a structured approach of multi-dimensional matrix analysis (similar to an ABC/XYZ alignment in commercial setups), this study evaluates user engagement across two core vectors: Friction (Cognitive Load) and Value Accumulation (Stored Capital).
+```
 
                   USER SEGMENTATION MATRIX
           
@@ -25,7 +26,7 @@ Following a structured approach of multi-dimensional matrix analysis (similar to
                 +---------------------------------------------------------------------
                                Low                              High
                                      🪙 Stored Value (CodeCoins Balance)
-
+```
 ---
 
 ## 📌 Core Metrics
