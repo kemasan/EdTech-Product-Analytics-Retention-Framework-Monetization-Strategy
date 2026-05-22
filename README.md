@@ -82,9 +82,9 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Question: Does early success predict retention?
 * Finding: Users with >=3 solved tasks in first 72 hours show D30 retention = 33.5%, while users without show D30 retention = 6.3%. Activation is not engagement — it is economic survival inside the product.
 
-![Aha-Moment Retention Comparison]([images/aha_moment_chart.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Aha-moment.png))
+![Aha-Moment Retention Comparison](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/Aha-moment.png)
 
-> 📂 Production SQL Query: [👉 sql/03_aha_moment_segmentation.sql]([sql/03_aha_moment_segmentation.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/03_aha_moment_segmentation.sql))
+> 📂 Production SQL Query: [👉 sql/03_aha_moment_segmentation.sql]([sql/03_aha_moment_segmentation.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/03_aha_moment_segmentation.sql)
 
 ---
 
@@ -93,7 +93,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Finding: 4 active days in Week 1 pushes retention to industry benchmark levels. Habit formation drives monetization potential.
 ![Behavioral cohort](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/habit%20hypothesis.png)
 
-> 📂 Production SQL Query: [👉 sql/04_habit_frequency_split.sql]([sql/04_habit_frequency_split.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/04_habit_frequency_split.sql))
+> 📂 Production SQL Query: [👉 sql/04_habit_frequency_split.sql]([sql/04_habit_frequency_split.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/04_habit_frequency_split.sql)
 
 ---
 
@@ -101,9 +101,9 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 * Question: At which attempt does abandonment overtake success probability?
 * Finding: At the 7th attempt, Abandon Rate = Success Rate (1.05%). This marks a psychological break-point where product challenge transforms into toxic frustration.
 
-![Friction Index and Abandon Rate Intersection]([images/frustration_index.png](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/break-point.png))
+![Friction Index and Abandon Rate Intersection](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/images/break-point.png)
 
-> 📂 Production SQL Query: [👉 sql/05_frustration_index_modeling.sql]([sql/05_frustration_index_modeling.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/05_frustration_index_modeling.sql))
+> 📂 Production SQL Query: [👉 sql/05_frustration_index_modeling.sql]([sql/05_frustration_index_modeling.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/05_frustration_index_modeling.sql)
 
 ---
 
@@ -113,7 +113,7 @@ Formula: FI = Total CodeRuns / Successful CodeSubmits
 
 ![Stored Value and Stickiness Analysis](images/stored_value_stickiness.png)
 
-> 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql]([sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql))
+> 📂 Production SQL Query: [👉 sql/06_stored_value_analysis.sql]([sql/06_stored_value_analysis.sql](https://github.com/kemasan/EdTech-Product-Analytics-Retention-Framework-Monetization-Strategy/blob/main/sql/06_stored_value_analysis.sql)
 
 ---
 
